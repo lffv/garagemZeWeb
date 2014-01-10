@@ -1,0 +1,236 @@
+
+a:focus{color: #32393E;}
+a{text-decoration: none;}
+a:visited{color: #32393E;}
+a{color: #32393E;}
+
+body{
+	min-width: 1000px;
+}
+
+.megadiv{
+	width: 1000px;
+	height: 500px;
+	border: 1px solid black;
+	margin: 0 auto 0 auto;
+}
+
+.header{
+	margin: 0 auto 0 auto;
+	width: 1000px;
+	height: 140px;
+	background-color: #32393E;    
+}
+
+.logo{
+	margin: 20px 0 0 30px;
+}
+
+.login{
+	float: right;
+	width: 300px;
+	height: 100px;
+	margin: 20px 10px 0 0;
+	border: 1px solid #BEBDBF;
+}
+
+.dlogin{
+	float: right;
+}
+
+.tus{
+	text-align: right;
+	margin: 10px 5px 0 0;	
+}
+
+.tbt{
+	text-align: right;
+	margin: -2px 0 0 0;
+}
+
+.w200{
+	width: 200px;
+}
+
+.content{
+	border: 1px solid black;
+	margin: 10px auto 0 auto;
+	width: 1000px;
+}
+
+.destaques{
+	
+	margin: 0 5px 0 0;
+	width: 725px;
+	float: left;
+}
+
+.categorias{
+	border: 1px solid black;
+	padding: 10px 10px 20px 20px;
+	margin-right: 0;
+	width: 238px;
+	height: 318px;
+	float: left;
+	overflow: scroll;
+}
+
+.tabDestaques{
+	margin-top: 15px;
+	width: 100%;
+}
+
+.colDestaques{
+	
+	width: 33%;
+	text-align: center;
+}
+
+.imgDestaque{
+	/*width: 70%;*/
+	max-height: 75px;
+	max-width: 175px;
+	text-align: center;
+}
+
+.buttonsDestaque{padding-top: 10px;
+ 	margin-right: 33px;
+  	margin-bottom: 24px;}
+	
+.buttonsDestaque img{
+	width: 20px;
+	float: right;
+	margin-right: 5px;
+}	
+
+.janelaRegUser{
+	padding: 20px;
+	height: 425px;
+    text-align: left;
+    width: 350px;
+}
+
+.tbt2{
+	text-align: right;
+	margin: 5px 0 0 0;
+}
+.janelaAddAnuncio{
+	padding: 30px;
+	height: 320px;
+    text-align: left;
+    width: 335px;
+}
+
+.janelaDetUtilizador{
+	padding: 30px;
+	height: 360px;
+    text-align: left;
+    width: 290px;
+
+}
+
+.detailAnuncio{
+	margin: 0 5px 0 0;
+	width: 725px;
+	float: left;
+}
+#imgAnuncio{
+	float:left;
+}
+.tabAnuncio{
+
+	float:right;
+	margin-top: 15px;
+	width: 49%;
+}
+
+.tabAnuncio td{
+	text-align:left;
+}
+
+.tabAnuncio th{
+	text-align:left;
+	
+}
+
+.categorias ul{
+	text-align:left;
+	margin:10px 0 0 50px;
+}
+
+.tabContactUser{width:100%;}
+.janelaDetUtilizador{margin:5px 5px 5px 5px;}
+
+.userDest:hover{cursor: pointer;}
+
+#imgaddanuncio:hover{cursor: pointer;}
+
+#imgaddanuncio{
+	vertical-align: top;
+	padding: 10px 0 0 50px;
+}
+
+#tabarea {
+	border-collapse:separate;
+	border-spacing:20px 10px;
+    float: left;
+    margin-top: 15px;
+    width: 100%;
+}
+
+#tabarea td{
+	text-align:left;
+}
+
+#tabarea th{
+	text-align:right;
+	width: 150px;
+	
+}
+.areapessoal{
+	margin: 0 5px 0 0;
+	width: 725px;
+	float: left;
+}
+
+.pErro{
+	text-align: right;
+	color: red;
+	margin-left: 30px;
+}
+
+
+#tabareabuttons th{
+	font-weight: bold;
+}
+#tabareabuttons{
+	margin: 0 5px 0 0;
+	width: 725px;
+	float: left;
+	border: 2px solid black;
+	text-align: center;
+	margin-top: 15px;
+	border-collapse:separate;
+	border-spacing:0px 5px;
+	
+}
+
+.lnk{
+	cursor: pointer;
+	
+}
+
+.janelaFlexi{
+	padding: 30px;
+	height: 360px;
+    text-align: left;
+    width: 700px;
+}
+
+.mtop10{
+	margin-top: 10px;
+}
+
+.w228{
+	width: 228px;
+}
